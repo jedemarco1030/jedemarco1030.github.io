@@ -1,8 +1,7 @@
-# React-portfolio
+# Jamie DeMarco Portfolio
 
-A boilrplate react portfolio to showcase your projects and work
+React portfolio to show my work, information, and interests.
 
-
-Dummy-portfolio link -> https://shloksomani.github.io/react-portfolio/
+Link -> https://jedemarco1030.github.io/
 
 ![](test.gif)
